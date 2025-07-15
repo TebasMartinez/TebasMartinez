@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I'm Tebas and I'm learning some code 👀
 
-![Codewars badge](https://codewars.com/users/TebasMartinez/badges/micro)
+[![Codewars badge](https://codewars.com/users/TebasMartinez/badges/micro)](https://www.codewars.com/users/TebasMartinez)
