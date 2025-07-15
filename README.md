@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I'm Tebas and I'm learning some code 👀
+
+<img alt="Dark Badge (micro)" class="hidden dark:block" src="/users/TebasMartinez/badges/micro">
