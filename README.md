@@ -17,4 +17,10 @@ Here are some ideas to get you started:
 
 I'm Tebas and I'm learning some code 👀
 
+### Socials
+
 [![Codewars badge](https://codewars.com/users/TebasMartinez/badges/micro)](https://www.codewars.com/users/TebasMartinez)
+
+### About my account
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TebasMartinez&layout=compact&theme=dark" width="auto"></img>
