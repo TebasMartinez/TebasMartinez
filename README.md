@@ -33,7 +33,7 @@ I'm Tebas and I'm learning some code 👀
 ### Skills
 
 #### Languages
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 
 #### Libraries
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
