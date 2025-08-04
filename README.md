@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 ## Hello, world ✨
 I'm Tebas and I'm learning some code 👀
 
-🔭 I’m currently working on:
-- [My portfolio website](https://github.com/TebasMartinez/portfolio_website)
-
-
 🌱 I’m currently learning:
 - Data Analytics.
 
