@@ -41,6 +41,7 @@ I'm Tebas and I'm learning some code 👀
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) \
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-white?logo=jupyter)](#) \
 [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
 ### Stats
 
